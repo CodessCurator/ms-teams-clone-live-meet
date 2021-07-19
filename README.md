@@ -8,3 +8,6 @@ To install the project locally follow the below steps
 
 # Access live website
 [Live Meet Here](http://52.191.31.132/)
+
+If you are accessing this website for the first time then,  click on advanced setting -> allow.
+It works absolutely fine after allowing but in case that after allowing video call doesn't start, then enter url again and make sure that room id is same that you wanna join in.
